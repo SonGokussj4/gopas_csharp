@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\2124\02.01_String\02.01_String\02.01_String\bin\Debug\netcoreapp3.1\02.01_String.exe
+C:\Users\Student\Documents\2124\02.01_String\02.01_String\02.01_String\bin\Debug\netcoreapp3.1\02.01_String.deps.json
+C:\Users\Student\Documents\2124\02.01_String\02.01_String\02.01_String\bin\Debug\netcoreapp3.1\02.01_String.runtimeconfig.json
+C:\Users\Student\Documents\2124\02.01_String\02.01_String\02.01_String\bin\Debug\netcoreapp3.1\02.01_String.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\02.01_String\02.01_String\02.01_String\bin\Debug\netcoreapp3.1\02.01_String.dll
+C:\Users\Student\Documents\2124\02.01_String\02.01_String\02.01_String\bin\Debug\netcoreapp3.1\02.01_String.pdb
+C:\Users\Student\Documents\2124\02.01_String\02.01_String\02.01_String\obj\Debug\netcoreapp3.1\02.01_String.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\02.01_String\02.01_String\02.01_String\obj\Debug\netcoreapp3.1\02.01_String.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\02.01_String\02.01_String\02.01_String\obj\Debug\netcoreapp3.1\02.01_String.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\02.01_String\02.01_String\02.01_String\obj\Debug\netcoreapp3.1\02.01_String.dll
+C:\Users\Student\Documents\2124\02.01_String\02.01_String\02.01_String\obj\Debug\netcoreapp3.1\02.01_String.pdb

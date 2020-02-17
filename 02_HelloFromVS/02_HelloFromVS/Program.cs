@@ -11,6 +11,7 @@ namespace _02_HelloFromVS
         static void Main(string[] args)
         {
             Console.WriteLine("Hello my padawan!");
+            Console.WriteLine(string.Format("This: '{0}' is my debug", "muj objekt"));
         }
     }
 }
