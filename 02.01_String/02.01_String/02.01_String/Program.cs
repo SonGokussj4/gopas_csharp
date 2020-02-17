@@ -18,12 +18,19 @@ namespace _02._01_String
 
             for (int i = 0; i < 10; i++)
             {
-                RewriteLine(string.Format("Kompliite: {0} %", i * 10 + 10), 200);
+                RewriteLine(string.Format("Kompliite: {0} %", i * 10 + 10), 100);
             }
             Console.WriteLine();
 
             string text = string.Format("This is newline: {0}", Environment.NewLine);
             Console.Write(text);
+
+            Console.WriteLine(string.Format("Float: {0:0.00}", 4.3));
+            Console.WriteLine(string.Format("Currency: {0:C}", 4.3));
+
+            double myFloat = 3.1415141514151415D;
+            Console.WriteLine(string.Format("{0}", myFloat));
+
 
         }
 

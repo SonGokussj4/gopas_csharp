@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\2124\03.03_Structure\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.exe
+C:\Users\Student\Documents\2124\03.03_Structure\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.deps.json
+C:\Users\Student\Documents\2124\03.03_Structure\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.runtimeconfig.json
+C:\Users\Student\Documents\2124\03.03_Structure\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\03.03_Structure\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.dll
+C:\Users\Student\Documents\2124\03.03_Structure\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.pdb
+C:\Users\Student\Documents\2124\03.03_Structure\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\03.03_Structure\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\03.03_Structure\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\03.03_Structure\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.dll
+C:\Users\Student\Documents\2124\03.03_Structure\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.pdb

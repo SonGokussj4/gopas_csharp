@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\2124\03.01_ValueTypes\03.01_ValueTypes\03.01_ValueTypes\bin\Debug\netcoreapp3.1\03.01_ValueTypes.exe
+C:\Users\Student\Documents\2124\03.01_ValueTypes\03.01_ValueTypes\03.01_ValueTypes\bin\Debug\netcoreapp3.1\03.01_ValueTypes.deps.json
+C:\Users\Student\Documents\2124\03.01_ValueTypes\03.01_ValueTypes\03.01_ValueTypes\bin\Debug\netcoreapp3.1\03.01_ValueTypes.runtimeconfig.json
+C:\Users\Student\Documents\2124\03.01_ValueTypes\03.01_ValueTypes\03.01_ValueTypes\bin\Debug\netcoreapp3.1\03.01_ValueTypes.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\03.01_ValueTypes\03.01_ValueTypes\03.01_ValueTypes\bin\Debug\netcoreapp3.1\03.01_ValueTypes.dll
+C:\Users\Student\Documents\2124\03.01_ValueTypes\03.01_ValueTypes\03.01_ValueTypes\bin\Debug\netcoreapp3.1\03.01_ValueTypes.pdb
+C:\Users\Student\Documents\2124\03.01_ValueTypes\03.01_ValueTypes\03.01_ValueTypes\obj\Debug\netcoreapp3.1\03.01_ValueTypes.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\03.01_ValueTypes\03.01_ValueTypes\03.01_ValueTypes\obj\Debug\netcoreapp3.1\03.01_ValueTypes.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\03.01_ValueTypes\03.01_ValueTypes\03.01_ValueTypes\obj\Debug\netcoreapp3.1\03.01_ValueTypes.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\03.01_ValueTypes\03.01_ValueTypes\03.01_ValueTypes\obj\Debug\netcoreapp3.1\03.01_ValueTypes.dll
+C:\Users\Student\Documents\2124\03.01_ValueTypes\03.01_ValueTypes\03.01_ValueTypes\obj\Debug\netcoreapp3.1\03.01_ValueTypes.pdb

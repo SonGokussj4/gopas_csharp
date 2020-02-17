@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\2124\03.02_Enumerator\Enumerator\Enumerator\bin\Debug\netcoreapp3.1\Enumerator.exe
+C:\Users\Student\Documents\2124\03.02_Enumerator\Enumerator\Enumerator\bin\Debug\netcoreapp3.1\Enumerator.deps.json
+C:\Users\Student\Documents\2124\03.02_Enumerator\Enumerator\Enumerator\bin\Debug\netcoreapp3.1\Enumerator.runtimeconfig.json
+C:\Users\Student\Documents\2124\03.02_Enumerator\Enumerator\Enumerator\bin\Debug\netcoreapp3.1\Enumerator.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\03.02_Enumerator\Enumerator\Enumerator\bin\Debug\netcoreapp3.1\Enumerator.dll
+C:\Users\Student\Documents\2124\03.02_Enumerator\Enumerator\Enumerator\bin\Debug\netcoreapp3.1\Enumerator.pdb
+C:\Users\Student\Documents\2124\03.02_Enumerator\Enumerator\Enumerator\obj\Debug\netcoreapp3.1\Enumerator.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\03.02_Enumerator\Enumerator\Enumerator\obj\Debug\netcoreapp3.1\Enumerator.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\03.02_Enumerator\Enumerator\Enumerator\obj\Debug\netcoreapp3.1\Enumerator.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\03.02_Enumerator\Enumerator\Enumerator\obj\Debug\netcoreapp3.1\Enumerator.dll
+C:\Users\Student\Documents\2124\03.02_Enumerator\Enumerator\Enumerator\obj\Debug\netcoreapp3.1\Enumerator.pdb
