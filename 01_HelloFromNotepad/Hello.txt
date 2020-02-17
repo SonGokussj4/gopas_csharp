@@ -1,0 +1,12 @@
+using System;
+
+namespace Gopas.Demos
+{
+    class Program
+    {
+        public static void Main()
+        {
+            Console.WriteLine("Hello there, my padawan");
+        }
+    }
+}
