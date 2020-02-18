@@ -2,14 +2,14 @@
 
 namespace _04_Excercise_PrimeNumbers
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             // Ask for a number and check if it's valid
             Console.Write("Enter a number: ");
             string text = Console.ReadLine();
-            bool valid = int.TryParse(text, out int num);
+            bool valid = long.TryParse(text, out long num);
             if (!valid)
             {
                 Console.WriteLine("Entered text '{0}' is not a valid number...", text);
@@ -23,7 +23,6 @@ namespace _04_Excercise_PrimeNumbers
                 System.Environment.Exit(1);
             }
 
-
             for (int i = 2; i <= num - 1; i++)
             {
                 if (num % i == 0)
@@ -33,6 +32,7 @@ namespace _04_Excercise_PrimeNumbers
                 }
             }
             Console.WriteLine("{0} is a prime number", num);
+            Console.Read();
         }
     }
 }
