@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\2124\04.02_Loops\04.02_Loops\04.02_Loops\bin\Debug\netcoreapp3.1\04.02_Loops.exe
+C:\Users\Student\Documents\2124\04.02_Loops\04.02_Loops\04.02_Loops\bin\Debug\netcoreapp3.1\04.02_Loops.deps.json
+C:\Users\Student\Documents\2124\04.02_Loops\04.02_Loops\04.02_Loops\bin\Debug\netcoreapp3.1\04.02_Loops.runtimeconfig.json
+C:\Users\Student\Documents\2124\04.02_Loops\04.02_Loops\04.02_Loops\bin\Debug\netcoreapp3.1\04.02_Loops.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\04.02_Loops\04.02_Loops\04.02_Loops\bin\Debug\netcoreapp3.1\04.02_Loops.dll
+C:\Users\Student\Documents\2124\04.02_Loops\04.02_Loops\04.02_Loops\bin\Debug\netcoreapp3.1\04.02_Loops.pdb
+C:\Users\Student\Documents\2124\04.02_Loops\04.02_Loops\04.02_Loops\obj\Debug\netcoreapp3.1\04.02_Loops.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\04.02_Loops\04.02_Loops\04.02_Loops\obj\Debug\netcoreapp3.1\04.02_Loops.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\04.02_Loops\04.02_Loops\04.02_Loops\obj\Debug\netcoreapp3.1\04.02_Loops.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\04.02_Loops\04.02_Loops\04.02_Loops\obj\Debug\netcoreapp3.1\04.02_Loops.dll
+C:\Users\Student\Documents\2124\04.02_Loops\04.02_Loops\04.02_Loops\obj\Debug\netcoreapp3.1\04.02_Loops.pdb
