@@ -1,0 +1,10 @@
+C:\Users\Student\Documents\2124\05.04_Recursion\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.exe
+C:\Users\Student\Documents\2124\05.04_Recursion\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.deps.json
+C:\Users\Student\Documents\2124\05.04_Recursion\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.runtimeconfig.json
+C:\Users\Student\Documents\2124\05.04_Recursion\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\05.04_Recursion\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.dll
+C:\Users\Student\Documents\2124\05.04_Recursion\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.pdb
+C:\Users\Student\Documents\2124\05.04_Recursion\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\05.04_Recursion\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\05.04_Recursion\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.dll
+C:\Users\Student\Documents\2124\05.04_Recursion\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.pdb
