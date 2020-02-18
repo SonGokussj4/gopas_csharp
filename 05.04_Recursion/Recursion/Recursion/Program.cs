@@ -20,4 +20,4 @@ namespace Recursion
             return currentNumber * Factorial(currentNumber - 1);
         }
     }
-}
+} 

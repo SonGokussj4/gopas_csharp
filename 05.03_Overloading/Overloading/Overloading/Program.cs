@@ -8,7 +8,8 @@ namespace Overloading
         {
             int res1 = Secti(2, 3);
             int res2 = Secti(2, 3, 4);
-            long res3 = Secti(465464654646465465, 1);
+            int res3 = Secti(1, 2, 3, 4, 5, 6, 7);
+            Console.WriteLine("Suma: {0}", res3);
         }
 
         private static int Secti(int a, int b)
@@ -16,10 +17,17 @@ namespace Overloading
             return a + b;
         }
 
-        private static long Secti(long a, long b)
+        //private static int Secti(int args)
+        private static int Secti(params int[] args)
         {
-            return a + b;
+            int suma = 0;
+            foreach (int item in args)
+            {
+                suma += item;
+            }
+            return suma;
         }
+
 
         private static int Secti(int a, int b, int c)
         {
