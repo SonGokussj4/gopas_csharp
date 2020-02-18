@@ -1,0 +1,10 @@
+C:\Users\Student\Documents\2124\05.02_Parameters\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.exe
+C:\Users\Student\Documents\2124\05.02_Parameters\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.deps.json
+C:\Users\Student\Documents\2124\05.02_Parameters\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.runtimeconfig.json
+C:\Users\Student\Documents\2124\05.02_Parameters\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\05.02_Parameters\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.dll
+C:\Users\Student\Documents\2124\05.02_Parameters\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.pdb
+C:\Users\Student\Documents\2124\05.02_Parameters\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\05.02_Parameters\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\05.02_Parameters\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.dll
+C:\Users\Student\Documents\2124\05.02_Parameters\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.pdb
