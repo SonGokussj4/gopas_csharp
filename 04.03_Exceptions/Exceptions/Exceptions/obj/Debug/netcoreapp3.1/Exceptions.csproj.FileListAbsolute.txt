@@ -1,0 +1,10 @@
+C:\Users\Student\Documents\2124\04.03_Exceptions\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.exe
+C:\Users\Student\Documents\2124\04.03_Exceptions\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.deps.json
+C:\Users\Student\Documents\2124\04.03_Exceptions\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.json
+C:\Users\Student\Documents\2124\04.03_Exceptions\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\04.03_Exceptions\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.dll
+C:\Users\Student\Documents\2124\04.03_Exceptions\Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.pdb
+C:\Users\Student\Documents\2124\04.03_Exceptions\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\04.03_Exceptions\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\04.03_Exceptions\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.dll
+C:\Users\Student\Documents\2124\04.03_Exceptions\Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.pdb
