@@ -21,6 +21,10 @@ namespace Structure
             string text = string.Format("Jmeno nasi spolecnosti je: {0}", Evektor.CompanyName);
             Console.WriteLine(text);
 
+            //bool done = int.TryParse("123123", out intValue);
+            //Console.WriteLine(string.Format("intValue: {B0}", intvalue));
+
+
 
         }
     }
