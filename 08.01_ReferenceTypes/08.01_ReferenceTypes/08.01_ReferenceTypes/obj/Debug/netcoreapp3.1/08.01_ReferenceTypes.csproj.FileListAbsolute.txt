@@ -1,0 +1,10 @@
+C:\Users\Student\Documents\2124\08.01_ReferenceTypes\08.01_ReferenceTypes\08.01_ReferenceTypes\bin\Debug\netcoreapp3.1\08.01_ReferenceTypes.exe
+C:\Users\Student\Documents\2124\08.01_ReferenceTypes\08.01_ReferenceTypes\08.01_ReferenceTypes\bin\Debug\netcoreapp3.1\08.01_ReferenceTypes.deps.json
+C:\Users\Student\Documents\2124\08.01_ReferenceTypes\08.01_ReferenceTypes\08.01_ReferenceTypes\bin\Debug\netcoreapp3.1\08.01_ReferenceTypes.runtimeconfig.json
+C:\Users\Student\Documents\2124\08.01_ReferenceTypes\08.01_ReferenceTypes\08.01_ReferenceTypes\bin\Debug\netcoreapp3.1\08.01_ReferenceTypes.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\08.01_ReferenceTypes\08.01_ReferenceTypes\08.01_ReferenceTypes\bin\Debug\netcoreapp3.1\08.01_ReferenceTypes.dll
+C:\Users\Student\Documents\2124\08.01_ReferenceTypes\08.01_ReferenceTypes\08.01_ReferenceTypes\bin\Debug\netcoreapp3.1\08.01_ReferenceTypes.pdb
+C:\Users\Student\Documents\2124\08.01_ReferenceTypes\08.01_ReferenceTypes\08.01_ReferenceTypes\obj\Debug\netcoreapp3.1\08.01_ReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\08.01_ReferenceTypes\08.01_ReferenceTypes\08.01_ReferenceTypes\obj\Debug\netcoreapp3.1\08.01_ReferenceTypes.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\08.01_ReferenceTypes\08.01_ReferenceTypes\08.01_ReferenceTypes\obj\Debug\netcoreapp3.1\08.01_ReferenceTypes.dll
+C:\Users\Student\Documents\2124\08.01_ReferenceTypes\08.01_ReferenceTypes\08.01_ReferenceTypes\obj\Debug\netcoreapp3.1\08.01_ReferenceTypes.pdb

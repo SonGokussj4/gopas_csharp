@@ -4,8 +4,8 @@ namespace _07._02_Static_Excercise_bankAccountClass
 {
     class BankAccount
     {
-        private double Amount;
-        public static double InterestRate = 2;
+        private decimal Amount;  // Pro finance vetsinou decimal
+        public static decimal InterestRate = 2;
 
         public BankAccount(int amount)
         {
@@ -26,19 +26,22 @@ namespace _07._02_Static_Excercise_bankAccountClass
     {
         private static void Main(string[] args)
         {
-            BankAccount Fio = new BankAccount(10000);
-            BankAccount MBank = new BankAccount(2000);
+            BankAccount fio = new BankAccount(10000);
+            BankAccount mBank = new BankAccount(2000);
 
-            Console.WriteLine("Fio: {0}", Fio.GetInfo());
-            Console.WriteLine("MBank: {0}", MBank.GetInfo());
+            Console.WriteLine("Fio: {0}", fio.GetInfo());
+            Console.WriteLine("MBank: {0}", mBank.GetInfo());
 
-            Fio.AddInterest();
-            MBank.AddInterest();
+            fio.AddInterest();
+            fio.AddInterest();
+            fio.AddInterest();
+            fio.AddInterest();
+            mBank.AddInterest();
 
             Console.WriteLine("After interest");
 
-            Console.WriteLine("Fio: {0}", Fio.GetInfo());
-            Console.WriteLine("MBank: {0}", MBank.GetInfo());
+            Console.WriteLine("Fio: {0}", fio.GetInfo());
+            Console.WriteLine("MBank: {0}", mBank.GetInfo());
 
         }
     }
