@@ -1,0 +1,10 @@
+C:\Users\Student\Documents\2124\06.02_Collections\06.02_Collections\06.02_Collections\obj\Debug\netcoreapp3.1\06.02_Collections.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\06.02_Collections\06.02_Collections\06.02_Collections\obj\Debug\netcoreapp3.1\06.02_Collections.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\06.02_Collections\06.02_Collections\06.02_Collections\bin\Debug\netcoreapp3.1\06.02_Collections.exe
+C:\Users\Student\Documents\2124\06.02_Collections\06.02_Collections\06.02_Collections\bin\Debug\netcoreapp3.1\06.02_Collections.deps.json
+C:\Users\Student\Documents\2124\06.02_Collections\06.02_Collections\06.02_Collections\bin\Debug\netcoreapp3.1\06.02_Collections.runtimeconfig.json
+C:\Users\Student\Documents\2124\06.02_Collections\06.02_Collections\06.02_Collections\bin\Debug\netcoreapp3.1\06.02_Collections.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\06.02_Collections\06.02_Collections\06.02_Collections\bin\Debug\netcoreapp3.1\06.02_Collections.dll
+C:\Users\Student\Documents\2124\06.02_Collections\06.02_Collections\06.02_Collections\bin\Debug\netcoreapp3.1\06.02_Collections.pdb
+C:\Users\Student\Documents\2124\06.02_Collections\06.02_Collections\06.02_Collections\obj\Debug\netcoreapp3.1\06.02_Collections.dll
+C:\Users\Student\Documents\2124\06.02_Collections\06.02_Collections\06.02_Collections\obj\Debug\netcoreapp3.1\06.02_Collections.pdb
