@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\2124\06.03_Debugging\06.03_Debugging\06.03_Debugging\bin\Debug\netcoreapp3.1\06.03_Debugging.exe
+C:\Users\Student\Documents\2124\06.03_Debugging\06.03_Debugging\06.03_Debugging\bin\Debug\netcoreapp3.1\06.03_Debugging.deps.json
+C:\Users\Student\Documents\2124\06.03_Debugging\06.03_Debugging\06.03_Debugging\bin\Debug\netcoreapp3.1\06.03_Debugging.runtimeconfig.json
+C:\Users\Student\Documents\2124\06.03_Debugging\06.03_Debugging\06.03_Debugging\bin\Debug\netcoreapp3.1\06.03_Debugging.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\06.03_Debugging\06.03_Debugging\06.03_Debugging\bin\Debug\netcoreapp3.1\06.03_Debugging.dll
+C:\Users\Student\Documents\2124\06.03_Debugging\06.03_Debugging\06.03_Debugging\bin\Debug\netcoreapp3.1\06.03_Debugging.pdb
+C:\Users\Student\Documents\2124\06.03_Debugging\06.03_Debugging\06.03_Debugging\obj\Debug\netcoreapp3.1\06.03_Debugging.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\06.03_Debugging\06.03_Debugging\06.03_Debugging\obj\Debug\netcoreapp3.1\06.03_Debugging.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\06.03_Debugging\06.03_Debugging\06.03_Debugging\obj\Debug\netcoreapp3.1\06.03_Debugging.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\06.03_Debugging\06.03_Debugging\06.03_Debugging\obj\Debug\netcoreapp3.1\06.03_Debugging.dll
+C:\Users\Student\Documents\2124\06.03_Debugging\06.03_Debugging\06.03_Debugging\obj\Debug\netcoreapp3.1\06.03_Debugging.pdb
