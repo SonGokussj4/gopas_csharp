@@ -1,0 +1,10 @@
+C:\Users\Student\Documents\2124\06.01_Array_Excercise_GetMax\06.01.Array_Excercise_GetMax\06.01.Array_Excercise_GetMax\bin\Debug\netcoreapp3.1\06.01.Array_Excercise_GetMax.exe
+C:\Users\Student\Documents\2124\06.01_Array_Excercise_GetMax\06.01.Array_Excercise_GetMax\06.01.Array_Excercise_GetMax\bin\Debug\netcoreapp3.1\06.01.Array_Excercise_GetMax.deps.json
+C:\Users\Student\Documents\2124\06.01_Array_Excercise_GetMax\06.01.Array_Excercise_GetMax\06.01.Array_Excercise_GetMax\bin\Debug\netcoreapp3.1\06.01.Array_Excercise_GetMax.runtimeconfig.json
+C:\Users\Student\Documents\2124\06.01_Array_Excercise_GetMax\06.01.Array_Excercise_GetMax\06.01.Array_Excercise_GetMax\bin\Debug\netcoreapp3.1\06.01.Array_Excercise_GetMax.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\06.01_Array_Excercise_GetMax\06.01.Array_Excercise_GetMax\06.01.Array_Excercise_GetMax\bin\Debug\netcoreapp3.1\06.01.Array_Excercise_GetMax.dll
+C:\Users\Student\Documents\2124\06.01_Array_Excercise_GetMax\06.01.Array_Excercise_GetMax\06.01.Array_Excercise_GetMax\bin\Debug\netcoreapp3.1\06.01.Array_Excercise_GetMax.pdb
+C:\Users\Student\Documents\2124\06.01_Array_Excercise_GetMax\06.01.Array_Excercise_GetMax\06.01.Array_Excercise_GetMax\obj\Debug\netcoreapp3.1\06.01.Array_Excercise_GetMax.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\06.01_Array_Excercise_GetMax\06.01.Array_Excercise_GetMax\06.01.Array_Excercise_GetMax\obj\Debug\netcoreapp3.1\06.01.Array_Excercise_GetMax.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\06.01_Array_Excercise_GetMax\06.01.Array_Excercise_GetMax\06.01.Array_Excercise_GetMax\obj\Debug\netcoreapp3.1\06.01.Array_Excercise_GetMax.dll
+C:\Users\Student\Documents\2124\06.01_Array_Excercise_GetMax\06.01.Array_Excercise_GetMax\06.01.Array_Excercise_GetMax\obj\Debug\netcoreapp3.1\06.01.Array_Excercise_GetMax.pdb
