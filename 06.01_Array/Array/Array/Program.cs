@@ -7,12 +7,13 @@ namespace Array
         private static void Main(string[] args)
         {
             //int[] list;
-            int[] list = new int[4];
+            //int[] list = new int[4];
+            //list[0] = 10;
+            //list[1] = 20;
+            //list[2] = 30;
+            //list[3] = 40;
 
-            list[0] = 10;
-            list[1] = 20;
-            list[2] = 30;
-            list[3] = 40;
+            int[] list = { 10, 20, 30, 40 };
 
             foreach (int item in list)
             {
