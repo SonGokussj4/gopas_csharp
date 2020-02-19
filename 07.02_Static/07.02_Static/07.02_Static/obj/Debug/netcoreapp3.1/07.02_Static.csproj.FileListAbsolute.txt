@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\2124\07.02_Static\07.02_Static\07.02_Static\bin\Debug\netcoreapp3.1\07.02_Static.exe
+C:\Users\Student\Documents\2124\07.02_Static\07.02_Static\07.02_Static\bin\Debug\netcoreapp3.1\07.02_Static.deps.json
+C:\Users\Student\Documents\2124\07.02_Static\07.02_Static\07.02_Static\bin\Debug\netcoreapp3.1\07.02_Static.runtimeconfig.json
+C:\Users\Student\Documents\2124\07.02_Static\07.02_Static\07.02_Static\bin\Debug\netcoreapp3.1\07.02_Static.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\07.02_Static\07.02_Static\07.02_Static\bin\Debug\netcoreapp3.1\07.02_Static.dll
+C:\Users\Student\Documents\2124\07.02_Static\07.02_Static\07.02_Static\bin\Debug\netcoreapp3.1\07.02_Static.pdb
+C:\Users\Student\Documents\2124\07.02_Static\07.02_Static\07.02_Static\obj\Debug\netcoreapp3.1\07.02_Static.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\07.02_Static\07.02_Static\07.02_Static\obj\Debug\netcoreapp3.1\07.02_Static.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\07.02_Static\07.02_Static\07.02_Static\obj\Debug\netcoreapp3.1\07.02_Static.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\07.02_Static\07.02_Static\07.02_Static\obj\Debug\netcoreapp3.1\07.02_Static.dll
+C:\Users\Student\Documents\2124\07.02_Static\07.02_Static\07.02_Static\obj\Debug\netcoreapp3.1\07.02_Static.pdb
