@@ -2,7 +2,7 @@
 
 namespace Array
 {
-    struct Employee
+    internal struct Employee
     {
         public string FirstName;
         public string LastName;
@@ -49,6 +49,7 @@ namespace Array
                     item.FirstName, item.LastName);
             }
 
+            // VYSLEDEK
             //Enter a First Name: Jan
             //Enter a Last Name: Verner
             //Enter a First Name: Petr
@@ -61,8 +62,23 @@ namespace Array
             ///////////////////////
             // Vicerozmerne pole //
             ///////////////////////
-            
 
+            //int[,] myArray = { { 10, 20, 30 }, { 40, 50, 60 }, { 70, 80, 90 } };
+            int[][] myArray = {
+                new int[] { 10, 20, 30 },
+                new int[] { 40, 50, 60, 100 },  // pokud mam pole v poli, mohu mit nesymetricke
+                new int[] { 70, 80, 90 },
+            };
+
+            for (int r = 0; r < myArray.GetLength(0); r++)
+            {
+                //for (int c = 0; c < myArray.GetLength(1); c++)
+                for (int c = 0; c < myArray[r].GetLength(0); c++)
+                {
+                    //Console.WriteLine(myArray[r, c] + ", ");
+                    Console.WriteLine(myArray[r][c] + ", ");
+                }
+            }
         }
     }
 }
