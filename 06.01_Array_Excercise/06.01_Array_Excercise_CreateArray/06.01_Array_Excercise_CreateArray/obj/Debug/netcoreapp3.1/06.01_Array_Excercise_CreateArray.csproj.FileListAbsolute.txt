@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\2124\06.01_Array_Excercise\06.01_Array_Excercise_CreateArray\06.01_Array_Excercise_CreateArray\bin\Debug\netcoreapp3.1\06.01_Array_Excercise_CreateArray.exe
+C:\Users\Student\Documents\2124\06.01_Array_Excercise\06.01_Array_Excercise_CreateArray\06.01_Array_Excercise_CreateArray\bin\Debug\netcoreapp3.1\06.01_Array_Excercise_CreateArray.deps.json
+C:\Users\Student\Documents\2124\06.01_Array_Excercise\06.01_Array_Excercise_CreateArray\06.01_Array_Excercise_CreateArray\bin\Debug\netcoreapp3.1\06.01_Array_Excercise_CreateArray.runtimeconfig.json
+C:\Users\Student\Documents\2124\06.01_Array_Excercise\06.01_Array_Excercise_CreateArray\06.01_Array_Excercise_CreateArray\bin\Debug\netcoreapp3.1\06.01_Array_Excercise_CreateArray.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\06.01_Array_Excercise\06.01_Array_Excercise_CreateArray\06.01_Array_Excercise_CreateArray\bin\Debug\netcoreapp3.1\06.01_Array_Excercise_CreateArray.dll
+C:\Users\Student\Documents\2124\06.01_Array_Excercise\06.01_Array_Excercise_CreateArray\06.01_Array_Excercise_CreateArray\bin\Debug\netcoreapp3.1\06.01_Array_Excercise_CreateArray.pdb
+C:\Users\Student\Documents\2124\06.01_Array_Excercise\06.01_Array_Excercise_CreateArray\06.01_Array_Excercise_CreateArray\obj\Debug\netcoreapp3.1\06.01_Array_Excercise_CreateArray.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\06.01_Array_Excercise\06.01_Array_Excercise_CreateArray\06.01_Array_Excercise_CreateArray\obj\Debug\netcoreapp3.1\06.01_Array_Excercise_CreateArray.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\06.01_Array_Excercise\06.01_Array_Excercise_CreateArray\06.01_Array_Excercise_CreateArray\obj\Debug\netcoreapp3.1\06.01_Array_Excercise_CreateArray.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\06.01_Array_Excercise\06.01_Array_Excercise_CreateArray\06.01_Array_Excercise_CreateArray\obj\Debug\netcoreapp3.1\06.01_Array_Excercise_CreateArray.dll
+C:\Users\Student\Documents\2124\06.01_Array_Excercise\06.01_Array_Excercise_CreateArray\06.01_Array_Excercise_CreateArray\obj\Debug\netcoreapp3.1\06.01_Array_Excercise_CreateArray.pdb
