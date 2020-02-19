@@ -7,7 +7,16 @@ namespace _07_01_Class
     {
         public string FirstName;
         public string LastName;
-        public decimal Salary;
+        private decimal Salary;
+
+        public decimal GetSalary()
+        {
+            return this.Salary;
+        }
+        public void SetSalary(decimal salary)
+        {
+            this.Salary = salary;
+        }
     }
 
     internal class Program
@@ -20,7 +29,10 @@ namespace _07_01_Class
 
             employee1.FirstName = "Jan";
             employee1.LastName = "Verner";
-            employee1.Salary = 100000000;
+            employee1.SetSalary(10000000);
+
+            Console.WriteLine("Salary of employee '{0}' is '{1}'", 
+                employee1.FirstName + " " + employee1.LastName, employee1.GetSalary());
         }
     }
 }
