@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\2124\06.01_Array_Excercise_CmdLineParams\CmdLineParams\CmdLineParams\bin\Debug\netcoreapp3.1\CmdLineParams.exe
+C:\Users\Student\Documents\2124\06.01_Array_Excercise_CmdLineParams\CmdLineParams\CmdLineParams\bin\Debug\netcoreapp3.1\CmdLineParams.deps.json
+C:\Users\Student\Documents\2124\06.01_Array_Excercise_CmdLineParams\CmdLineParams\CmdLineParams\bin\Debug\netcoreapp3.1\CmdLineParams.runtimeconfig.json
+C:\Users\Student\Documents\2124\06.01_Array_Excercise_CmdLineParams\CmdLineParams\CmdLineParams\bin\Debug\netcoreapp3.1\CmdLineParams.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\06.01_Array_Excercise_CmdLineParams\CmdLineParams\CmdLineParams\bin\Debug\netcoreapp3.1\CmdLineParams.dll
+C:\Users\Student\Documents\2124\06.01_Array_Excercise_CmdLineParams\CmdLineParams\CmdLineParams\bin\Debug\netcoreapp3.1\CmdLineParams.pdb
+C:\Users\Student\Documents\2124\06.01_Array_Excercise_CmdLineParams\CmdLineParams\CmdLineParams\obj\Debug\netcoreapp3.1\CmdLineParams.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\06.01_Array_Excercise_CmdLineParams\CmdLineParams\CmdLineParams\obj\Debug\netcoreapp3.1\CmdLineParams.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\06.01_Array_Excercise_CmdLineParams\CmdLineParams\CmdLineParams\obj\Debug\netcoreapp3.1\CmdLineParams.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\06.01_Array_Excercise_CmdLineParams\CmdLineParams\CmdLineParams\obj\Debug\netcoreapp3.1\CmdLineParams.dll
+C:\Users\Student\Documents\2124\06.01_Array_Excercise_CmdLineParams\CmdLineParams\CmdLineParams\obj\Debug\netcoreapp3.1\CmdLineParams.pdb

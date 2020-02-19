@@ -1,0 +1,10 @@
+C:\Users\Student\Documents\2124\02_HelloFromVS\command_line_params\bin\Debug\netcoreapp3.1\command_line_params.exe
+C:\Users\Student\Documents\2124\02_HelloFromVS\command_line_params\bin\Debug\netcoreapp3.1\command_line_params.deps.json
+C:\Users\Student\Documents\2124\02_HelloFromVS\command_line_params\bin\Debug\netcoreapp3.1\command_line_params.runtimeconfig.json
+C:\Users\Student\Documents\2124\02_HelloFromVS\command_line_params\bin\Debug\netcoreapp3.1\command_line_params.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\02_HelloFromVS\command_line_params\bin\Debug\netcoreapp3.1\command_line_params.dll
+C:\Users\Student\Documents\2124\02_HelloFromVS\command_line_params\bin\Debug\netcoreapp3.1\command_line_params.pdb
+C:\Users\Student\Documents\2124\02_HelloFromVS\command_line_params\obj\Debug\netcoreapp3.1\command_line_params.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\02_HelloFromVS\command_line_params\obj\Debug\netcoreapp3.1\command_line_params.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\02_HelloFromVS\command_line_params\obj\Debug\netcoreapp3.1\command_line_params.dll
+C:\Users\Student\Documents\2124\02_HelloFromVS\command_line_params\obj\Debug\netcoreapp3.1\command_line_params.pdb
