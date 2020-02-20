@@ -20,6 +20,11 @@ namespace _09._02_Finalizace
         {
             FileStream fs = new FileStream();
             fs.Open();
+
+            // Pracuji se souborem
+            throw new Exception("Invalit file operation");
+
+            fs.Close();
         }
     }
 }
