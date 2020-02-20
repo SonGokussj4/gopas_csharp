@@ -49,15 +49,24 @@ namespace _10._04_CastingAndVirtualMethods
     {
         static void Main(string[] args)
         {
-            Fish fish = new Fish();
-            Cat cat = new Cat();
+            //Fish fish = new Fish();
+            //Cat cat = new Cat();
 
-            Console.WriteLine($"Fish sound: {fish.MakeSound()}");
-            Console.WriteLine($"Cat sound: {cat.MakeSound()}");
+            //Console.WriteLine($"Fish sound: {fish.MakeSound()}");
+            //Console.WriteLine($"Cat sound: {cat.MakeSound()}");
 
-            PersianCat persianCat = new PersianCat();
-            // ONE MILLION YOWS
-            Console.WriteLine($"PersianCat sound: {persianCat.MakeSound()}");
+            //PersianCat persianCat = new PersianCat();
+            //// ONE MILLION YOWS
+            //Console.WriteLine($"PersianCat sound: {persianCat.MakeSound()}");
+
+            Animal[] animals = new Animal[3];
+
+            animals[0] = (Animal)new Fish();  // Lze: new Fish();
+            animals[1] = (Animal)new Cat();  // Lze: new Cat();
+            animals[2] = (Animal)new PersianCat();  // Lze: new PersianCat();
+
+            // Pole mame sice typu Animal... Ale vkladame do nej typ "Cat", "Fish", ...
+
         }
     }
 }
