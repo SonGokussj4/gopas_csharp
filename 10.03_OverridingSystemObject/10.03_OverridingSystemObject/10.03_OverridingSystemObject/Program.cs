@@ -13,6 +13,11 @@ namespace _10._03_OverridingSystemObject
             this.FirstName = firstName;
             this.LastName = lastName;
         }
+
+        public override string ToString()
+        {
+            return $"FirstName --> '{this.FirstName}', LastName --> '{this.LastName}'";
+        }
     }
 
     class Program
@@ -20,7 +25,7 @@ namespace _10._03_OverridingSystemObject
         static void Main(string[] args)
         {
             Employee employee = new Employee("Ferda", "Mravenec");
-            Console.WriteLine(employee.ToString());  // vypise namespace nazev _10._03_OverridingSystemObject
+            Console.WriteLine(employee.ToString());  // vypise FirstName --> 'Ferda', LastName --> 'Mravenec'
         }
     }
 }
