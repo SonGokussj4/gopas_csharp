@@ -6,11 +6,16 @@ namespace _10._01_Inheritance
     {
         public int NumberOfLegs;
         public string Name;
+
+        public Animal(string name)
+        {
+            this.Name = name;
+        }
     }
 
     class Cat: Animal
     {
-        public Cat()
+        public Cat(string name) :base(name)
         {
             this.NumberOfLegs = 4;
         }
@@ -18,7 +23,7 @@ namespace _10._01_Inheritance
 
     class Spider: Animal
     {
-        public Spider()
+        public Spider(string name) : base(name)
         {
             this.NumberOfLegs = 8;
         }
@@ -27,13 +32,13 @@ namespace _10._01_Inheritance
     {
         static void Main(string[] args)
         {
-            Cat cat = new Cat();
-            Spider spider = new Spider();
+            Cat cat = new Cat("Micka");
+            Spider spider = new Spider("Odula");
 
-            cat.Name = "Micka";
+            //cat.Name = "Micka";
             //cat.NumberOfLegs = 4;
 
-            spider.Name = "Odula";
+            //spider.Name = "Odula";
             //spider.NumberOfLegs = 8;
 
             Console.WriteLine($"Pocet nohou kocky [{cat.Name}]: {cat.NumberOfLegs}");
