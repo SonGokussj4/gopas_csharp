@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace _10._02_Overriding
 {
@@ -29,7 +30,18 @@ namespace _10._02_Overriding
     {
         public override string MakeSound()
         {
-            return $"{base.MakeSound()} {base.MakeSound()}";
+            StringBuilder s = new StringBuilder();
+            System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
+            sw.Start();
+            for (int i = 0; i < 1000000; i++){
+                //s.Append(string.Format("{0} ", base.MakeSound()));  // 93 ms
+                //s.Append($"{base.MakeSound()} ");  // 35 ms
+                s.Append(base.MakeSound());
+                s.Append(" ");  // 15 ms
+            }
+            sw.Stop();
+            //return $"{base.MakeSound()} {base.MakeSound()}";
+            return $"{s.ToString().Trim()} ... {sw.ElapsedMilliseconds}";
         }
     }
 
@@ -44,6 +56,7 @@ namespace _10._02_Overriding
             Console.WriteLine($"Cat sound: {cat.MakeSound()}");
 
             PersianCat persianCat = new PersianCat();
+            // ONE MILLION YOWS
             Console.WriteLine($"PersianCat sound: {persianCat.MakeSound()}");
 
         }
