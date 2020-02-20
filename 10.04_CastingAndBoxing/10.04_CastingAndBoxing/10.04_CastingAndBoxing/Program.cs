@@ -27,11 +27,25 @@ namespace _10._04_CastingAndBoxing
             //fish = animal;
 
             // Explicit casting down (Explicitni jit muze a nemusi)
-            cat = (Cat)animal;
-            fish = (Fish)animal;  // Protoze byl animal = (Animal)cat a snazime se pretypovat na Cat na Fish, exception...
+            if (animal is Cat)
+            {
+                cat = (Cat)animal;
+                Console.WriteLine("Casted to Cat");
+            }
+            else
+            {
+                Console.WriteLine("Can't cast to Cat");
+            }
 
-
-
+            if (animal is Fish)
+            {
+                fish = (Fish)animal;
+                Console.WriteLine("Casted to Fish");
+            }
+            else
+            {
+                Console.WriteLine("Can't cast to Fish");
+            }
         }
     }
 }
