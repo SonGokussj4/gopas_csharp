@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\2124\10.05_Excercise_Shapes\10.05_Excercise_Shapes\10.05_Excercise_Shapes\bin\Debug\netcoreapp3.1\10.05_Excercise_Shapes.exe
+C:\Users\Student\Documents\2124\10.05_Excercise_Shapes\10.05_Excercise_Shapes\10.05_Excercise_Shapes\bin\Debug\netcoreapp3.1\10.05_Excercise_Shapes.deps.json
+C:\Users\Student\Documents\2124\10.05_Excercise_Shapes\10.05_Excercise_Shapes\10.05_Excercise_Shapes\bin\Debug\netcoreapp3.1\10.05_Excercise_Shapes.runtimeconfig.json
+C:\Users\Student\Documents\2124\10.05_Excercise_Shapes\10.05_Excercise_Shapes\10.05_Excercise_Shapes\bin\Debug\netcoreapp3.1\10.05_Excercise_Shapes.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\10.05_Excercise_Shapes\10.05_Excercise_Shapes\10.05_Excercise_Shapes\bin\Debug\netcoreapp3.1\10.05_Excercise_Shapes.dll
+C:\Users\Student\Documents\2124\10.05_Excercise_Shapes\10.05_Excercise_Shapes\10.05_Excercise_Shapes\bin\Debug\netcoreapp3.1\10.05_Excercise_Shapes.pdb
+C:\Users\Student\Documents\2124\10.05_Excercise_Shapes\10.05_Excercise_Shapes\10.05_Excercise_Shapes\obj\Debug\netcoreapp3.1\10.05_Excercise_Shapes.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\10.05_Excercise_Shapes\10.05_Excercise_Shapes\10.05_Excercise_Shapes\obj\Debug\netcoreapp3.1\10.05_Excercise_Shapes.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\10.05_Excercise_Shapes\10.05_Excercise_Shapes\10.05_Excercise_Shapes\obj\Debug\netcoreapp3.1\10.05_Excercise_Shapes.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\10.05_Excercise_Shapes\10.05_Excercise_Shapes\10.05_Excercise_Shapes\obj\Debug\netcoreapp3.1\10.05_Excercise_Shapes.dll
+C:\Users\Student\Documents\2124\10.05_Excercise_Shapes\10.05_Excercise_Shapes\10.05_Excercise_Shapes\obj\Debug\netcoreapp3.1\10.05_Excercise_Shapes.pdb

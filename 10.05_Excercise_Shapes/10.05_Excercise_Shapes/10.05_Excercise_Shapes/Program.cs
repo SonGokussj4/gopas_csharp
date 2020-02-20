@@ -2,51 +2,76 @@
 
 namespace _10._05_Excercise_Shapes
 {
-    class Tvar
+    class Shape
     {
 
     }
 
-    class Obdelnik : Tvar
+    class Obdelnik : Shape
     {
+        private int a;
+        private int b;
 
+        public Obdelnik(int a, int b)
+        {
+            this.a = a;
+            this.b = b;
+        }
+
+        public int GetPovrch()
+        {
+            return this.a * this.b;
+        }
     }
 
-    class Kvadr : Tvar
+    class Kvadr : Obdelnik
     {
+        private int a;
+        private int b;
+        private int c;
 
+        public Kvadr(int a, int b, int c) : base(a, b)
+        {
+            this.a = a;
+            this.b = b;
+            this.c = c;
+        }
+
+        public int GetPovrch()
+        {
+            return 2 * (this.a * this.b) + 2 * (this.a * this.c) + 2 * (this.b * this.c);
+        }
     }
+
     class ShapeManager
-    {
-        //public static void PrintInvoice(Invoice invoice)
-        //{
-        //    // Zkontroluji, zda invoice vubec existuje. Pokud ne, tak vyskocim z funkce ven.
-        //    if (invoice == null) return;
+    {   
+        public static void PrintPovrch(Obdelnik shape)
+        {
+            if (shape == null) return;
 
-        //    Console.WriteLine($"ID: {invoice.Id}, TotalPrice: {invoice.TotalPrice}, DateCreated: {invoice.DateCreated}");
+            Console.WriteLine($"Shape is... {shape.GetPovrch()}");
+        }
 
-        //    // Zapiseme do instance, kde bylo naposled printovano
-        //    invoice.DatePrinted = DateTime.Now;
-        //}
+        public static void PrintPovrch(Kvadr shape)
+        {
+            if (shape == null) return;
+
+            Console.WriteLine($"Shape is... {shape.GetPovrch()}");
+        }
 
         public static Obdelnik MakeObdelnik(int a, int b)
         {
+            Obdelnik obdelnik = new Obdelnik(a, b);
 
+            return obdelnik;
         }
 
         public static Kvadr MakeKvadr(int a, int b, int c)
         {
+            Kvadr kvadr = new Kvadr(a, b, c);
 
+            return kvadr;
         }
-
-        //public static Invoice MakeInvoice(int id, decimal totalPrice)
-        //{
-        //    Invoice newInvoice = new Invoice();
-        //    newInvoice.Id = id;
-        //    newInvoice.TotalPrice = totalPrice;
-        //    newInvoice.DateCreated = DateTime.Now;
-        //    return newInvoice;
-        //}
     }
 
     class Program
@@ -60,7 +85,14 @@ namespace _10._05_Excercise_Shapes
 
             foreach (var shape in shapes)
             {
-                shape.ToString();
+                if (shape is Obdelnik)
+                {
+                    ShapeManager.PrintPovrch((Obdelnik)shape);
+                }
+                else
+                {
+                    ShapeManager.PrintPovrch((Kvadr)shape);
+                }
             }
         }
     }
