@@ -4,7 +4,7 @@ namespace _10._02_Overriding
 {
     class Animal
     {
-        public string MakeSound()
+        public virtual string MakeSound()
         {
             return "";
         }
@@ -18,7 +18,10 @@ namespace _10._02_Overriding
 
     class Cat : Animal
     {
-
+        public override string MakeSound()
+        {
+            return "Mnaou";
+        }
     }
 
     class Program
