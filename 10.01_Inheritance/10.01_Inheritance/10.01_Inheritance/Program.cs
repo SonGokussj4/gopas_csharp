@@ -10,12 +10,18 @@ namespace _10._01_Inheritance
 
     class Cat: Animal
     {
-
+        public Cat() : base()
+        {
+            this.NumberOfLegs = 4;
+        }
     }
 
     class Spider: Animal
     {
-
+        public Spider() : base()
+        {
+            this.NumberOfLegs = 8;
+        }
     }
     class Program
     {
@@ -25,13 +31,13 @@ namespace _10._01_Inheritance
             Spider spider = new Spider();
 
             cat.Name = "Micka";
-            cat.NumberOfLegs = 4;
+            //cat.NumberOfLegs = 4;
 
             spider.Name = "Odula";
-            spider.NumberOfLegs = 8;
+            //spider.NumberOfLegs = 8;
 
-            Console.WriteLine($"Pocet nohou kocky: {cat.NumberOfLegs}");
-            Console.WriteLine($"Pocet nohou pavouka: {spider.NumberOfLegs}");
+            Console.WriteLine($"Pocet nohou kocky [{cat.Name}]: {cat.NumberOfLegs}");
+            Console.WriteLine($"Pocet nohou pavouka [{spider.Name}]: {spider.NumberOfLegs}");
         }
     }
 }
