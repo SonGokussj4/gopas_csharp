@@ -2,6 +2,20 @@
 
 namespace _10._05_Excercise_Shapes
 {
+    class Tvar
+    {
+
+    }
+
+    class Obdelnik : Tvar
+    {
+
+    }
+
+    class Kvadr : Tvar
+    {
+
+    }
     class ShapeManager
     {
         //public static void PrintInvoice(Invoice invoice)
@@ -14,6 +28,16 @@ namespace _10._05_Excercise_Shapes
         //    // Zapiseme do instance, kde bylo naposled printovano
         //    invoice.DatePrinted = DateTime.Now;
         //}
+
+        public static Obdelnik MakeObdelnik(int a, int b)
+        {
+
+        }
+
+        public static Kvadr MakeKvadr(int a, int b, int c)
+        {
+
+        }
 
         //public static Invoice MakeInvoice(int id, decimal totalPrice)
         //{
