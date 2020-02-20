@@ -13,6 +13,10 @@ namespace _09._02_Finalizace
         {
             Console.WriteLine("Closing file");
         }
+        ~FileStream()
+        {
+            this.Close();
+        }
     }
 
     internal class Program
