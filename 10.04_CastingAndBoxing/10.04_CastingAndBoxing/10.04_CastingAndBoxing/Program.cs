@@ -22,9 +22,16 @@ namespace _10._04_CastingAndBoxing
             animal = (Animal)fish;
             animal = (Animal)cat;
 
-            // Implicit casting down (Implicitni dolu nejde...)
-            cat = animal;
-            fish = animal;
+            //// Implicit casting down (Implicitni dolu nejde...)
+            //cat = animal;
+            //fish = animal;
+
+            // Explicit casting down (Explicitni jit muze a nemusi)
+            cat = (Cat)animal;
+            fish = (Fish)animal;  // Protoze byl animal = (Animal)cat a snazime se pretypovat na Cat na Fish, exception...
+
+
+
         }
     }
 }
