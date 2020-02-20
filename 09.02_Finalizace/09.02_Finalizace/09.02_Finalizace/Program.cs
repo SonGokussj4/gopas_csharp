@@ -2,7 +2,7 @@
 
 namespace _09._02_Finalizace
 {
-    class FileStream
+    internal class FileStream
     {
         public void Open()
         {
@@ -14,17 +14,22 @@ namespace _09._02_Finalizace
             Console.WriteLine("Closing file");
         }
     }
+
     internal class Program
     {
         private static void Main(string[] args)
         {
             FileStream fs = new FileStream();
-            fs.Open();
-
-            // Pracuji se souborem
-            throw new Exception("Invalit file operation");
-
-            fs.Close();
+            try
+            {
+                fs.Open();
+                // Pracuji se souborem
+                throw new Exception("Invalit file operation");
+            }
+            finally
+            {
+                fs.Close();
+            }
         }
     }
 }
