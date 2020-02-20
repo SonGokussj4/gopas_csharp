@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\2124\10.04_CastingAndBoxing\10.04_CastingAndBoxing\10.04_CastingAndBoxing\obj\Debug\netcoreapp3.1\10.04_CastingAndBoxing.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\10.04_CastingAndBoxing\10.04_CastingAndBoxing\10.04_CastingAndBoxing\obj\Debug\netcoreapp3.1\10.04_CastingAndBoxing.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\10.04_CastingAndBoxing\10.04_CastingAndBoxing\10.04_CastingAndBoxing\obj\Debug\netcoreapp3.1\10.04_CastingAndBoxing.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\10.04_CastingAndBoxing\10.04_CastingAndBoxing\10.04_CastingAndBoxing\bin\Debug\netcoreapp3.1\10.04_CastingAndBoxing.exe
+C:\Users\Student\Documents\2124\10.04_CastingAndBoxing\10.04_CastingAndBoxing\10.04_CastingAndBoxing\bin\Debug\netcoreapp3.1\10.04_CastingAndBoxing.deps.json
+C:\Users\Student\Documents\2124\10.04_CastingAndBoxing\10.04_CastingAndBoxing\10.04_CastingAndBoxing\bin\Debug\netcoreapp3.1\10.04_CastingAndBoxing.runtimeconfig.json
+C:\Users\Student\Documents\2124\10.04_CastingAndBoxing\10.04_CastingAndBoxing\10.04_CastingAndBoxing\bin\Debug\netcoreapp3.1\10.04_CastingAndBoxing.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\10.04_CastingAndBoxing\10.04_CastingAndBoxing\10.04_CastingAndBoxing\bin\Debug\netcoreapp3.1\10.04_CastingAndBoxing.dll
+C:\Users\Student\Documents\2124\10.04_CastingAndBoxing\10.04_CastingAndBoxing\10.04_CastingAndBoxing\bin\Debug\netcoreapp3.1\10.04_CastingAndBoxing.pdb
+C:\Users\Student\Documents\2124\10.04_CastingAndBoxing\10.04_CastingAndBoxing\10.04_CastingAndBoxing\obj\Debug\netcoreapp3.1\10.04_CastingAndBoxing.dll
+C:\Users\Student\Documents\2124\10.04_CastingAndBoxing\10.04_CastingAndBoxing\10.04_CastingAndBoxing\obj\Debug\netcoreapp3.1\10.04_CastingAndBoxing.pdb

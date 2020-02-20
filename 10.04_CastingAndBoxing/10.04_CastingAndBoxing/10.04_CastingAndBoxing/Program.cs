@@ -12,6 +12,12 @@ namespace _10._04_CastingAndBoxing
             Fish fish = new Fish();
             Cat cat = new Cat();
 
+            Animal animal;
+
+            // Implicit casting up (melo by vzdy jit)
+            animal = fish;
+            animal = cat;
+
             
         }
     }
