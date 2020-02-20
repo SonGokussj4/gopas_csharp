@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace _10._04_CastingAndVirtualMethods
+namespace _10._05_CastingAndVirtualMethods
 {
     class Animal
     {
@@ -69,10 +69,15 @@ namespace _10._04_CastingAndVirtualMethods
 
             foreach (Animal item in animals)
             {
-                Console.WriteLine(item.MakeSound());
+                //Console.WriteLine(item.MakeSound());
+                MakeSoundOfAnimal(item);
             }
         }
 
+        static void MakeSoundOfAnimal(Animal animal)
+        {
+            Console.WriteLine(animal.MakeSound());
+        }
     }
 }
 
