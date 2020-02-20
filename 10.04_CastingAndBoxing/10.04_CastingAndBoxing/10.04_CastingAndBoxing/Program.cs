@@ -73,6 +73,30 @@ namespace _10._04_CastingAndBoxing
 
             // Explicit UnBoxing
             int b = (int)o2;  // All ok
+
+            System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
+
+            System.Collections.ArrayList listRef = new System.Collections.ArrayList();
+            sw.Start();
+            for (int i = 0; i < 100000000; i++)
+            {
+                listRef.Add("A");
+            }
+            sw.Stop();  // 1.5 second
+            Console.WriteLine($"Add('A') ... {sw.ElapsedMilliseconds} ms");
+            
+            sw.Reset();
+
+            System.Collections.ArrayList listVal = new System.Collections.ArrayList();
+            sw.Start();
+            for (int i = 0; i < 100000000; i++)
+            {
+                listVal.Add(0);  // HAS TO BE BOXED (Value type) .... SLOWER
+            }
+            sw.Stop();  // 8.5 second
+            Console.WriteLine($"Add(0) ... {sw.ElapsedMilliseconds} ms");
+
+            sw.Reset();
         }
     }
 }
