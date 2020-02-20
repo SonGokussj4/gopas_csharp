@@ -58,6 +58,16 @@ namespace _10._04_CastingAndBoxing
             {
                 Console.WriteLine("Can't cast to Fish");
             }
+
+            // BOXING
+            int a = 1;
+            
+            // Implicit Boxing
+            object o1 = a;
+
+            // Explicit Boxing
+            object o2 = (object)a;
+
         }
     }
 }
