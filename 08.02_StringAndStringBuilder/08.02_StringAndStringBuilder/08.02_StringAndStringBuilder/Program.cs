@@ -28,7 +28,7 @@ namespace _08._02_StringAndStringBuilder
             System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
             Console.WriteLine("Start");
             sw.Start();
-            for (int i = 0; i < 150000000; i++)
+            for (long i = 0; i < 150000000; i++)
             {
                 // Slow as fuck - 940 ms (skoro sekunda)
                 //s += "A";
