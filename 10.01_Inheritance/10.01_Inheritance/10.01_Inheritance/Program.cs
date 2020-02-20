@@ -10,7 +10,7 @@ namespace _10._01_Inheritance
 
     class Cat: Animal
     {
-        public Cat() : base()
+        public Cat()
         {
             this.NumberOfLegs = 4;
         }
@@ -18,7 +18,7 @@ namespace _10._01_Inheritance
 
     class Spider: Animal
     {
-        public Spider() : base()
+        public Spider()
         {
             this.NumberOfLegs = 8;
         }
