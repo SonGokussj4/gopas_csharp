@@ -10,6 +10,7 @@ namespace _09._01_Constructors
     internal class Date
     {
         public int Year, Month, Day;
+        public readonly int DaysInMonth;
 
         //public Date()
         //{
@@ -23,6 +24,7 @@ namespace _09._01_Constructors
             this.Day = Day;
             this.Month = Month;
             this.Year = Year;
+            this.DaysInMonth = DateTime.DaysInMonth(this.Year, this.Month);
         }
     }
 
@@ -34,10 +36,10 @@ namespace _09._01_Constructors
             Console.WriteLine(mc.i);
 
             Date d = new Date(31, 12, 2015);
-            Console.WriteLine($"{d.Day:D2}.{d.Month:D2}.{d.Year:D4}");
+            Console.WriteLine($"{d.Day:D2}.{d.Month:D2}.{d.Year:D4} ... {d.DaysInMonth} days");
             
             Date d2 = new Date();
-            Console.WriteLine($"{d2.Day:D2}.{d2.Month:D2}.{d2.Year:D4}");
+            Console.WriteLine($"{d2.Day:D2}.{d2.Month:D2}.{d2.Year:D4} ... {d2.DaysInMonth} days");
         }
     }
 }
