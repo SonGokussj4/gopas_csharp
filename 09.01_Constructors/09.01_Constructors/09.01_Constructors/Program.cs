@@ -10,13 +10,14 @@ namespace _09._01_Constructors
     internal class Date
     {
         public int Year, Month, Day;
-        
+
         //public Date()
         //{
         //    this.Day = 1;
         //    this.Month = 1;
         //    this.Year = 1970;
         //}
+        public Date() : this(1, 1, 1980) { }  // Prazdny body, referuji se ale na jiny konstruktor
         public Date(int Day, int Month, int Year)
         {
             this.Day = Day;
@@ -32,9 +33,11 @@ namespace _09._01_Constructors
             MyClass mc = new MyClass();
             Console.WriteLine(mc.i);
 
-            //Date d = new Date();
             Date d = new Date(31, 12, 2015);
             Console.WriteLine($"{d.Day:D2}.{d.Month:D2}.{d.Year:D4}");
+            
+            Date d2 = new Date();
+            Console.WriteLine($"{d2.Day:D2}.{d2.Month:D2}.{d2.Year:D4}");
         }
     }
 }
