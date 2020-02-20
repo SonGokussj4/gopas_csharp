@@ -68,6 +68,11 @@ namespace _10._04_CastingAndBoxing
             // Explicit Boxing
             object o2 = (object)a;
 
+            //// Implicit UnBoxing
+            //int b = o1;  // Cannot implicitly convert type... Missing cast?
+
+            // Explicit UnBoxing
+            int b = (int)o2;  // All ok
         }
     }
 }
