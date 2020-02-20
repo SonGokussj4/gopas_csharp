@@ -10,6 +10,13 @@ namespace _09._01_Constructors
     internal class Date
     {
         public int Year, Month, Day;
+        
+        public Date()
+        {
+            this.Day = 1;
+            this.Month = 1;
+            this.Year = 1970;
+        }
     }
 
     internal class Program
@@ -20,9 +27,6 @@ namespace _09._01_Constructors
             Console.WriteLine(mc.i);
 
             Date d = new Date();
-            d.Day = 1;
-            d.Month = 1;
-            d.Year = 1970;
             Console.WriteLine($"{d.Day:D2}.{d.Month:D2}.{d.Year:D4}");
         }
     }
