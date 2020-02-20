@@ -24,6 +24,14 @@ namespace _10._02_Overriding
         }
     }
 
+    class PersianCat : Cat
+    {
+        public override string MakeSound()
+        {
+            return $"{base.MakeSound()} {base.MakeSound()}";
+        }
+    }
+
     class Program
     {
         static void Main(string[] args)
@@ -33,6 +41,9 @@ namespace _10._02_Overriding
 
             Console.WriteLine($"Fish zvuk: {fish.MakeSound()}");
             Console.WriteLine($"Cat zvuk: {cat.MakeSound()}");
+
+            PersianCat persianCat = new PersianCat();
+            Console.WriteLine($"PersianCat zvuk: {persianCat.MakeSound()}");
 
         }
     }
