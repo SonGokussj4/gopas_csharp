@@ -67,7 +67,12 @@ namespace _10._04_CastingAndVirtualMethods
 
             // Pole mame sice typu Animal... Ale vkladame do nej typ "Cat", "Fish", ...
 
+            foreach (Animal item in animals)
+            {
+                Console.WriteLine(item.MakeSound());
+            }
         }
+
     }
 }
 
