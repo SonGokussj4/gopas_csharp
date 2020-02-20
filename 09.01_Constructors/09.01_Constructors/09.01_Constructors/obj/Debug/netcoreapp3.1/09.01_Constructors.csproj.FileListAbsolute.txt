@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\2124\09.01_Constructors\09.01_Constructors\09.01_Constructors\bin\Debug\netcoreapp3.1\09.01_Constructors.exe
+C:\Users\Student\Documents\2124\09.01_Constructors\09.01_Constructors\09.01_Constructors\bin\Debug\netcoreapp3.1\09.01_Constructors.deps.json
+C:\Users\Student\Documents\2124\09.01_Constructors\09.01_Constructors\09.01_Constructors\bin\Debug\netcoreapp3.1\09.01_Constructors.runtimeconfig.json
+C:\Users\Student\Documents\2124\09.01_Constructors\09.01_Constructors\09.01_Constructors\bin\Debug\netcoreapp3.1\09.01_Constructors.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\09.01_Constructors\09.01_Constructors\09.01_Constructors\bin\Debug\netcoreapp3.1\09.01_Constructors.dll
+C:\Users\Student\Documents\2124\09.01_Constructors\09.01_Constructors\09.01_Constructors\bin\Debug\netcoreapp3.1\09.01_Constructors.pdb
+C:\Users\Student\Documents\2124\09.01_Constructors\09.01_Constructors\09.01_Constructors\obj\Debug\netcoreapp3.1\09.01_Constructors.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\09.01_Constructors\09.01_Constructors\09.01_Constructors\obj\Debug\netcoreapp3.1\09.01_Constructors.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\09.01_Constructors\09.01_Constructors\09.01_Constructors\obj\Debug\netcoreapp3.1\09.01_Constructors.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\09.01_Constructors\09.01_Constructors\09.01_Constructors\obj\Debug\netcoreapp3.1\09.01_Constructors.dll
+C:\Users\Student\Documents\2124\09.01_Constructors\09.01_Constructors\09.01_Constructors\obj\Debug\netcoreapp3.1\09.01_Constructors.pdb
