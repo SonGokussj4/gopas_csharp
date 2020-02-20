@@ -2,11 +2,35 @@
 
 namespace _10._02_Overriding
 {
+    class Animal
+    {
+        public string MakeSound()
+        {
+            return "";
+        }
+
+    }
+
+    class Fish : Animal
+    {
+
+    }
+
+    class Cat : Animal
+    {
+
+    }
+
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Fish fish = new Fish();
+            Cat cat = new Cat();
+
+            Console.WriteLine($"Fish zvuk: {fish.MakeSound()}");
+            Console.WriteLine($"Cat zvuk: {cat.MakeSound()}");
+
         }
     }
 }

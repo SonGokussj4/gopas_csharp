@@ -1,0 +1,10 @@
+C:\Users\Student\Documents\2124\10.02_Overriding\10.02_Overriding\10.02_Overriding\bin\Debug\netcoreapp3.1\10.02_Overriding.exe
+C:\Users\Student\Documents\2124\10.02_Overriding\10.02_Overriding\10.02_Overriding\bin\Debug\netcoreapp3.1\10.02_Overriding.deps.json
+C:\Users\Student\Documents\2124\10.02_Overriding\10.02_Overriding\10.02_Overriding\bin\Debug\netcoreapp3.1\10.02_Overriding.runtimeconfig.json
+C:\Users\Student\Documents\2124\10.02_Overriding\10.02_Overriding\10.02_Overriding\bin\Debug\netcoreapp3.1\10.02_Overriding.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\10.02_Overriding\10.02_Overriding\10.02_Overriding\bin\Debug\netcoreapp3.1\10.02_Overriding.dll
+C:\Users\Student\Documents\2124\10.02_Overriding\10.02_Overriding\10.02_Overriding\bin\Debug\netcoreapp3.1\10.02_Overriding.pdb
+C:\Users\Student\Documents\2124\10.02_Overriding\10.02_Overriding\10.02_Overriding\obj\Debug\netcoreapp3.1\10.02_Overriding.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\10.02_Overriding\10.02_Overriding\10.02_Overriding\obj\Debug\netcoreapp3.1\10.02_Overriding.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\10.02_Overriding\10.02_Overriding\10.02_Overriding\obj\Debug\netcoreapp3.1\10.02_Overriding.dll
+C:\Users\Student\Documents\2124\10.02_Overriding\10.02_Overriding\10.02_Overriding\obj\Debug\netcoreapp3.1\10.02_Overriding.pdb
