@@ -27,22 +27,34 @@ namespace _10._04_CastingAndBoxing
             //fish = animal;
 
             // Explicit casting down (Explicitni jit muze a nemusi)
-            if (animal is Cat)
-            {
-                cat = (Cat)animal;
-                Console.WriteLine("Casted to Cat");
-            }
-            else
+            //if (animal is Cat)
+            //{
+            //    cat = (Cat)animal;
+            //    Console.WriteLine("Casted to Cat");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Can't cast to Cat");
+            //}
+
+            //if (animal is Fish)
+            //{
+            //    fish = (Fish)animal;
+            //    Console.WriteLine("Casted to Fish");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Can't cast to Fish");
+            //}
+
+            cat = animal as Cat;
+            if (cat == null)
             {
                 Console.WriteLine("Can't cast to Cat");
             }
-
-            if (animal is Fish)
-            {
-                fish = (Fish)animal;
-                Console.WriteLine("Casted to Fish");
-            }
-            else
+            
+            fish = animal as Fish;
+            if (fish == null)
             {
                 Console.WriteLine("Can't cast to Fish");
             }
