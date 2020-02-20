@@ -20,7 +20,8 @@ namespace _10._02_Overriding
     {
         public override string MakeSound()
         {
-            return "Mnaou";
+            //return "Mnaou";
+            return "Yow";  // Anglicke Mnaou
         }
     }
 
@@ -39,11 +40,11 @@ namespace _10._02_Overriding
             Fish fish = new Fish();
             Cat cat = new Cat();
 
-            Console.WriteLine($"Fish zvuk: {fish.MakeSound()}");
-            Console.WriteLine($"Cat zvuk: {cat.MakeSound()}");
+            Console.WriteLine($"Fish sound: {fish.MakeSound()}");
+            Console.WriteLine($"Cat sound: {cat.MakeSound()}");
 
             PersianCat persianCat = new PersianCat();
-            Console.WriteLine($"PersianCat zvuk: {persianCat.MakeSound()}");
+            Console.WriteLine($"PersianCat sound: {persianCat.MakeSound()}");
 
         }
     }
