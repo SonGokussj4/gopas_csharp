@@ -21,6 +21,10 @@ namespace _10._04_CastingAndBoxing
             // Explicit casting up (musi vzdy jit, je to stejne, jen vic rozepsane)
             animal = (Animal)fish;
             animal = (Animal)cat;
+
+            // Implicit casting down (Implicitni dolu nejde...)
+            cat = animal;
+            fish = animal;
         }
     }
 }
