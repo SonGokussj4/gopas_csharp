@@ -18,7 +18,9 @@ namespace _10._04_CastingAndBoxing
             animal = fish;
             animal = cat;
 
-            
+            // Explicit casting up (musi vzdy jit, je to stejne, jen vic rozepsane)
+            animal = (Animal)fish;
+            animal = (Animal)cat;
         }
     }
 }
