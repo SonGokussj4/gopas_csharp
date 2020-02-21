@@ -5,7 +5,7 @@ namespace _10._06_Shadowing
 {
     class Animal
     {
-        public virtual string MakeSound()
+        public string MakeSound()
         {
             return "";
         }
@@ -19,7 +19,7 @@ namespace _10._06_Shadowing
 
     class Cat : Animal
     {
-        public override string MakeSound()
+        new public string MakeSound()
         {
             //return "Mnaou";
             return "Yow";  // Anglicke Mnaou
@@ -28,7 +28,7 @@ namespace _10._06_Shadowing
 
     class PersianCat : Cat
     {
-        public override string MakeSound()
+        new public string MakeSound()
         {
             StringBuilder s = new StringBuilder();
             System.Diagnostics.Stopwatch sw = new System.Diagnostics.Stopwatch();
@@ -69,14 +69,19 @@ namespace _10._06_Shadowing
 
             foreach (Animal item in animals)
             {
-                //Console.WriteLine(item.MakeSound());
-                MakeSoundOfAnimal(item);
+                if (item is PersianCat)
+                {
+                    Console.WriteLine(((PersianCat)item).MakeSound());
+                }
+                else if (item is Cat)
+                {
+                    Console.WriteLine(((Cat)item).MakeSound());
+                }
+                else
+                {
+                    Console.WriteLine((item).MakeSound());
+                }
             }
-        }
-
-        static void MakeSoundOfAnimal(Animal animal)
-        {
-            Console.WriteLine(animal.MakeSound());
         }
     }
 }
