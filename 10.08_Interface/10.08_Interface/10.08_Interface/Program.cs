@@ -12,12 +12,12 @@ namespace _10._08_Interface
     {
         public string ToLowerCase()
         {
-            throw new NotImplementedException();
+            return "aBcD".ToUpper();
         }
 
         public string ToUpperCase()
         {
-            throw new NotImplementedException();
+            return "aBcD".ToLower();
         }
     }
     class Employee : IStringConvertible
