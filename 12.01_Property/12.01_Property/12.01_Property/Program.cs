@@ -24,7 +24,7 @@ namespace _12._01_Property
         static void Main(string[] args)
         {
             Fish fish = new Fish();
-            fish.Weight = -20;
+            fish.Weight = -020;
             Console.WriteLine($"Fish weight: {fish.Weight}");
         }
     }

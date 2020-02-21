@@ -49,11 +49,14 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup>
     <ProjectReference Include="..\Gramofon\Gramofon.csproj">
       <Project>{93ee536b-7077-4d9c-9144-cc0e16ea5db8}</Project>
       <Name>Gramofon</Name>
     </ProjectReference>
   </ItemGroup>
+=======
+>>>>>>> 517e9cd10f5e8307a7ab376e5848aa33acff775f
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
