@@ -48,7 +48,8 @@ namespace _10._08_Interface
             Console.WriteLine(employee.ToString());  // Jan Verner
             //Console.WriteLine(employee.ToLowerCase());  // jan verner  // NelzeZkompilovat, protoze jsme zmenili na explicitni
             // Pretypovani 'employee' na 'IStringConvertible'
-            IStringConvertible convertible = (IStringConvertible)employee;
+            //IStringConvertible convertible = (IStringConvertible)employee; // (IStringConvertible) se nemusi pouzit, je explicitni
+            IStringConvertible convertible = employee;  // Implicitni pretypovani
             Console.WriteLine(convertible.ToLowerCase());  // jan verner
             Console.WriteLine(employee.ToUpperCase());  // JAN VERNER
         }
