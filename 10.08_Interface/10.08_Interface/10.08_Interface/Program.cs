@@ -18,6 +18,11 @@ namespace _10._08_Interface
             this.FirstName = firstName;
             this.LastName = lastName;
         }
+
+        public override string ToString()
+        {
+            return $"{this.FirstName} {this.LastName}";
+        }
     }
 
     class Program
