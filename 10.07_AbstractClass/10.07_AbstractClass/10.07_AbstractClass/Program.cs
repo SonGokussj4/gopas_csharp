@@ -2,7 +2,7 @@
 
 namespace _10._07_AbstractClass
 {
-    class Stream
+    abstract class Stream
     {
 
     }
@@ -10,7 +10,8 @@ namespace _10._07_AbstractClass
     {
         static void Main(string[] args)
         {
-            Stream stream = new Stream();
+            // Nelze zkompilovat, protoze z abstraktni classy nejde udelat instance
+            //Stream stream = new Stream();
         }
     }
 }
