@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace _10._06_Excercise_Inheritance_Home
 {
@@ -30,7 +31,7 @@ namespace _10._06_Excercise_Inheritance_Home
         {
             this.A = a;
             this.B = b;
-            this.Area = this.A * this.B;  
+            //this.Area = this.A * this.B;  
             // pouzivat jen kdyz by to byl mrte komplikovany vypocet, 
             // bude zabirat VIC pameti, 
             // kdyz zmenim stav objektu, musim pamatovat na zmenu this.Area - prepocitat
@@ -38,7 +39,7 @@ namespace _10._06_Excercise_Inheritance_Home
 
         public override string Report()
         {
-            return $"Rectangle plocha: {this.Area} mm";
+            return $"Rectangle plocha: {this.Povrch()} mm";
         }
 
         public override int Povrch()
@@ -55,19 +56,51 @@ namespace _10._06_Excercise_Inheritance_Home
     /// <summary>
     /// Class of 3D Box, inheriting (A, B) from 'Rectangle', overriding 'Report()' method
     /// </summary>
-    internal class Box : Rectangle
+    internal class Box: Shape
     {
+        public int A;
+        public int B;
         public int C;
+        public List<Shape> rectangles = new List<Shape>();
 
-        public Box(int a, int b, int c) : base(a, b)
+        public Box(int a, int b, int c)
         {
+            this.A = a;
+            this.B = b;
             this.C = c;
-            this.Area = (2 * this.A * this.B) + (2 * this.A * this.C) + 2 * (this.B * this.C);
+
+            this.rectangles.Add(ShapeManager.MakeRectange(this.A, this.B));
+            this.rectangles.Add(ShapeManager.MakeRectange(this.A, this.B));
+            this.rectangles.Add(ShapeManager.MakeRectange(this.A, this.B));
+            //List<Shape> rectangles = new List<Shape>
+            //{
+            //    ShapeManager.MakeRectange(this.A, this.B),
+            //    ShapeManager.MakeRectange(this.A, this.C),
+            //    ShapeManager.MakeRectange(this.B, this.C),
+            //};
+            //this.Area = (2 * this.A * this.B) + (2 * this.A * this.C) + 2 * (this.B * this.C);
         }
 
         public override string Report()
         {
-            return $"Box plocha: {this.Area} mm2";
+            return $"Box plocha: {this.Povrch()} mm2";
+        }
+
+        public override int Povrch()
+        {
+            return 2 * (this.rectangles[0].Povrch() + this.rectangles[1].Povrch() + this.rectangles[2].Povrch());
+            //int povrch = 0;
+            //foreach (Rectangle item in rectangles)
+            //{
+            //    Console.WriteLine(item.Povrch());
+            //    povrch += item.Povrch();
+            //}
+            //return povrch;
+        }
+
+        public static int Povrch(int a, int b, int c)
+        {
+            return (2 * a * b) + (2 * a * c) + 2 * (b * c);
         }
     }
     /// <summary>
@@ -102,7 +135,7 @@ namespace _10._06_Excercise_Inheritance_Home
         private static void Main(string[] args)
         {
             // Fill list with custom shapes
-            System.Collections.Generic.List<Shape> shapes = new System.Collections.Generic.List<Shape>
+            List<Shape> shapes = new List<Shape>
             //System.Collections.ArrayList shapes = new System.Collections.ArrayList  // Lepsi List (je typovy) nez ArrayList
             {
                 ShapeManager.MakeRectange(2, 3),
