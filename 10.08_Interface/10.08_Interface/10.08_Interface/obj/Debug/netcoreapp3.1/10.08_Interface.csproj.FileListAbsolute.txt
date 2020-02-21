@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\2124\10.08_Interface\10.08_Interface\10.08_Interface\bin\Debug\netcoreapp3.1\10.08_Interface.exe
+C:\Users\Student\Documents\2124\10.08_Interface\10.08_Interface\10.08_Interface\bin\Debug\netcoreapp3.1\10.08_Interface.deps.json
+C:\Users\Student\Documents\2124\10.08_Interface\10.08_Interface\10.08_Interface\bin\Debug\netcoreapp3.1\10.08_Interface.runtimeconfig.json
+C:\Users\Student\Documents\2124\10.08_Interface\10.08_Interface\10.08_Interface\bin\Debug\netcoreapp3.1\10.08_Interface.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\10.08_Interface\10.08_Interface\10.08_Interface\bin\Debug\netcoreapp3.1\10.08_Interface.dll
+C:\Users\Student\Documents\2124\10.08_Interface\10.08_Interface\10.08_Interface\bin\Debug\netcoreapp3.1\10.08_Interface.pdb
+C:\Users\Student\Documents\2124\10.08_Interface\10.08_Interface\10.08_Interface\obj\Debug\netcoreapp3.1\10.08_Interface.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\10.08_Interface\10.08_Interface\10.08_Interface\obj\Debug\netcoreapp3.1\10.08_Interface.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\10.08_Interface\10.08_Interface\10.08_Interface\obj\Debug\netcoreapp3.1\10.08_Interface.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\10.08_Interface\10.08_Interface\10.08_Interface\obj\Debug\netcoreapp3.1\10.08_Interface.dll
+C:\Users\Student\Documents\2124\10.08_Interface\10.08_Interface\10.08_Interface\obj\Debug\netcoreapp3.1\10.08_Interface.pdb
