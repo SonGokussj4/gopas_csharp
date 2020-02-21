@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\2124\10.07_AbstractClass\10.07_AbstractClass\10.07_AbstractClass\bin\Debug\netcoreapp3.1\10.07_AbstractClass.exe
+C:\Users\Student\Documents\2124\10.07_AbstractClass\10.07_AbstractClass\10.07_AbstractClass\bin\Debug\netcoreapp3.1\10.07_AbstractClass.deps.json
+C:\Users\Student\Documents\2124\10.07_AbstractClass\10.07_AbstractClass\10.07_AbstractClass\bin\Debug\netcoreapp3.1\10.07_AbstractClass.runtimeconfig.json
+C:\Users\Student\Documents\2124\10.07_AbstractClass\10.07_AbstractClass\10.07_AbstractClass\bin\Debug\netcoreapp3.1\10.07_AbstractClass.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\10.07_AbstractClass\10.07_AbstractClass\10.07_AbstractClass\bin\Debug\netcoreapp3.1\10.07_AbstractClass.dll
+C:\Users\Student\Documents\2124\10.07_AbstractClass\10.07_AbstractClass\10.07_AbstractClass\bin\Debug\netcoreapp3.1\10.07_AbstractClass.pdb
+C:\Users\Student\Documents\2124\10.07_AbstractClass\10.07_AbstractClass\10.07_AbstractClass\obj\Debug\netcoreapp3.1\10.07_AbstractClass.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\10.07_AbstractClass\10.07_AbstractClass\10.07_AbstractClass\obj\Debug\netcoreapp3.1\10.07_AbstractClass.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\10.07_AbstractClass\10.07_AbstractClass\10.07_AbstractClass\obj\Debug\netcoreapp3.1\10.07_AbstractClass.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\10.07_AbstractClass\10.07_AbstractClass\10.07_AbstractClass\obj\Debug\netcoreapp3.1\10.07_AbstractClass.dll
+C:\Users\Student\Documents\2124\10.07_AbstractClass\10.07_AbstractClass\10.07_AbstractClass\obj\Debug\netcoreapp3.1\10.07_AbstractClass.pdb
