@@ -11,6 +11,11 @@ namespace _10._06_Excercise_Inheritance_Home
         {
             return "Haha";
         }
+
+        public virtual int Povrch()
+        {
+            return 0;
+        }
     }
     /// <summary>
     /// Class of 2D Rectangle, overriding 'Report()' method
@@ -34,6 +39,17 @@ namespace _10._06_Excercise_Inheritance_Home
         public override string Report()
         {
             return $"Rectangle plocha: {this.Area} mm";
+        }
+
+        public override int Povrch()
+        {
+            //return this.A * this.B;
+            return Rectangle.Povrch(this.A, this.B);  // vyuziju staticke metody
+        }
+
+        public static int Povrch(int a, int b)
+        {
+            return a * b;
         }
     }
     /// <summary>
@@ -86,7 +102,8 @@ namespace _10._06_Excercise_Inheritance_Home
         private static void Main(string[] args)
         {
             // Fill list with custom shapes
-            System.Collections.ArrayList shapes = new System.Collections.ArrayList  // Lepsi List (je typovy) nez ArrayList
+            System.Collections.Generic.List<Shape> shapes = new System.Collections.Generic.List<Shape>
+            //System.Collections.ArrayList shapes = new System.Collections.ArrayList  // Lepsi List (je typovy) nez ArrayList
             {
                 ShapeManager.MakeRectange(2, 3),
                 ShapeManager.MakeBox(1, 2, 3),
