@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\2124\12.01_Property\12.01_Property\12.01_Property\bin\Debug\netcoreapp3.1\12.01_Property.exe
+C:\Users\Student\Documents\2124\12.01_Property\12.01_Property\12.01_Property\bin\Debug\netcoreapp3.1\12.01_Property.deps.json
+C:\Users\Student\Documents\2124\12.01_Property\12.01_Property\12.01_Property\bin\Debug\netcoreapp3.1\12.01_Property.runtimeconfig.json
+C:\Users\Student\Documents\2124\12.01_Property\12.01_Property\12.01_Property\bin\Debug\netcoreapp3.1\12.01_Property.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\12.01_Property\12.01_Property\12.01_Property\bin\Debug\netcoreapp3.1\12.01_Property.dll
+C:\Users\Student\Documents\2124\12.01_Property\12.01_Property\12.01_Property\bin\Debug\netcoreapp3.1\12.01_Property.pdb
+C:\Users\Student\Documents\2124\12.01_Property\12.01_Property\12.01_Property\obj\Debug\netcoreapp3.1\12.01_Property.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\12.01_Property\12.01_Property\12.01_Property\obj\Debug\netcoreapp3.1\12.01_Property.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\12.01_Property\12.01_Property\12.01_Property\obj\Debug\netcoreapp3.1\12.01_Property.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\12.01_Property\12.01_Property\12.01_Property\obj\Debug\netcoreapp3.1\12.01_Property.dll
+C:\Users\Student\Documents\2124\12.01_Property\12.01_Property\12.01_Property\obj\Debug\netcoreapp3.1\12.01_Property.pdb

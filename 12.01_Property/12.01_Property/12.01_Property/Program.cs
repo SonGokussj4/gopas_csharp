@@ -4,7 +4,20 @@ namespace _12._01_Property
 {
     class Fish
     {
-        public int Weight;
+        private int _weight;
+
+        public int Weight
+        {
+            get { return this._weight; }
+            set 
+            { 
+                if (value <= 0) {
+                    throw new InvalidOperationException("Invalid value");
+                }
+                _weight = value; 
+            }
+        }
+
     }
     class Program
     {
