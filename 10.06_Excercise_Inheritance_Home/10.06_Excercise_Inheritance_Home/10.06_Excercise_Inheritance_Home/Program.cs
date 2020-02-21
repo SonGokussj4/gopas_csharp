@@ -2,6 +2,9 @@
 
 namespace _10._06_Excercise_Inheritance_Home
 {
+    /// <summary>
+    /// Base class of Shape
+    /// </summary>
     internal class Shape
     {
         public virtual string Report()
@@ -9,7 +12,9 @@ namespace _10._06_Excercise_Inheritance_Home
             return "Haha";
         }
     }
-
+    /// <summary>
+    /// Class of 2D Rectangle, overriding 'Report()' method
+    /// </summary>
     internal class Rectangle : Shape
     {
         public int A;
@@ -28,7 +33,9 @@ namespace _10._06_Excercise_Inheritance_Home
             return $"Rectangle plocha: {this.Area} mm";
         }
     }
-
+    /// <summary>
+    /// Class of 3D Box, inheriting (A, B) from 'Rectangle', overriding 'Report()' method
+    /// </summary>
     internal class Box : Rectangle
     {
         public int C;
@@ -44,7 +51,9 @@ namespace _10._06_Excercise_Inheritance_Home
             return $"Box plocha: {this.Area} mm2";
         }
     }
-
+    /// <summary>
+    /// Class for creating and making reports about shapes.
+    /// </summary>
     internal class ShapeManager
     {
         public static Shape MakeRectange(int a, int b)
@@ -64,11 +73,14 @@ namespace _10._06_Excercise_Inheritance_Home
             return shape.Report();
         }
     }
-
+    /// <summary>
+    /// Main program
+    /// </summary>
     internal class Program
     {
         private static void Main(string[] args)
         {
+            // Fill list with custom shapes
             System.Collections.ArrayList shapes = new System.Collections.ArrayList
             {
                 ShapeManager.MakeRectange(2, 3),
@@ -77,7 +89,6 @@ namespace _10._06_Excercise_Inheritance_Home
 
             foreach (Shape item in shapes)
             {
-                //Console.WriteLine(item.Report());
                 Console.WriteLine(ShapeManager.MakeReport(item));
             }
         }

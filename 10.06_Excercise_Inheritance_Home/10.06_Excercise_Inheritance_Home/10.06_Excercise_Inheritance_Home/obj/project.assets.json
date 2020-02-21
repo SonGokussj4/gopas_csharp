@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\jverner\\.nuget\\packages\\": {}
+    "C:\\Users\\Student\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GIT\\gopas_csharp\\10.06_Excercise_Inheritance_Home\\10.06_Excercise_Inheritance_Home\\10.06_Excercise_Inheritance_Home\\10.06_Excercise_Inheritance_Home.csproj",
+      "projectUniqueName": "C:\\Users\\Student\\Documents\\2124\\10.06_Excercise_Inheritance_Home\\10.06_Excercise_Inheritance_Home\\10.06_Excercise_Inheritance_Home\\10.06_Excercise_Inheritance_Home.csproj",
       "projectName": "10.06_Excercise_Inheritance_Home",
-      "projectPath": "C:\\GIT\\gopas_csharp\\10.06_Excercise_Inheritance_Home\\10.06_Excercise_Inheritance_Home\\10.06_Excercise_Inheritance_Home\\10.06_Excercise_Inheritance_Home.csproj",
-      "packagesPath": "C:\\Users\\jverner\\.nuget\\packages\\",
-      "outputPath": "C:\\GIT\\gopas_csharp\\10.06_Excercise_Inheritance_Home\\10.06_Excercise_Inheritance_Home\\10.06_Excercise_Inheritance_Home\\obj\\",
+      "projectPath": "C:\\Users\\Student\\Documents\\2124\\10.06_Excercise_Inheritance_Home\\10.06_Excercise_Inheritance_Home\\10.06_Excercise_Inheritance_Home\\10.06_Excercise_Inheritance_Home.csproj",
+      "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Student\\Documents\\2124\\10.06_Excercise_Inheritance_Home\\10.06_Excercise_Inheritance_Home\\10.06_Excercise_Inheritance_Home\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jverner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
