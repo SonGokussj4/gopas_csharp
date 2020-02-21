@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\2124\05_Exercise_Povrchy\05_Exercise_Povrchy\bin\Debug\05_Exercise_Povrchy.exe.config
+C:\Users\Student\Documents\2124\05_Exercise_Povrchy\05_Exercise_Povrchy\bin\Debug\05_Exercise_Povrchy.exe
+C:\Users\Student\Documents\2124\05_Exercise_Povrchy\05_Exercise_Povrchy\bin\Debug\05_Exercise_Povrchy.pdb
+C:\Users\Student\Documents\2124\05_Exercise_Povrchy\05_Exercise_Povrchy\obj\Debug\05_Exercise_Povrchy.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\05_Exercise_Povrchy\05_Exercise_Povrchy\obj\Debug\05_Exercise_Povrchy.exe
+C:\Users\Student\Documents\2124\05_Exercise_Povrchy\05_Exercise_Povrchy\obj\Debug\05_Exercise_Povrchy.pdb
