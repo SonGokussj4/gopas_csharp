@@ -30,6 +30,7 @@ namespace _11._01_Events
         private static void Timer2_Elapsed(object sender, System.Timers.ElapsedEventArgs e)
         {
             Console.WriteLine("World");
+            ((System.Timers.Timer)sender).Enabled = false;
         }
 
         private static void Timer1_Elapsed(object sender,
