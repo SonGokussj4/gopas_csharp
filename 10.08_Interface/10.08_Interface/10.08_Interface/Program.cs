@@ -39,7 +39,10 @@ namespace _10._08_Interface
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Employee employee = new Employee("Jan", "Verner");
+            Console.WriteLine(employee.ToString());  // Jan Verner
+            Console.WriteLine(employee.ToLowerCase());  // jan verner
+            Console.WriteLine(employee.ToUpperCase());  // JAN VERNER
         }
     }
 }
