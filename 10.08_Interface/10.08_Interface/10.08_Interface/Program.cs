@@ -19,6 +19,11 @@ namespace _10._08_Interface
         {
             return "aBcD".ToLower();
         }
+
+        public string RekniAhoj()
+        {
+            return "Ahoj!";
+        }
     }
 
     class Employee : IStringConvertible
