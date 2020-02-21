@@ -20,6 +20,7 @@ namespace _10._08_Interface
             return "aBcD".ToLower();
         }
     }
+
     class Employee : IStringConvertible
     {
         public string FirstName;
@@ -67,6 +68,9 @@ namespace _10._08_Interface
 
             //ShowConverted((IStringConvertible)employee);  // explicitne
             ShowConverted(employee);  // implicitne
+
+            MyClass mc = new MyClass();
+            ShowConverted(mc);
         }
 
         /// <summary>
