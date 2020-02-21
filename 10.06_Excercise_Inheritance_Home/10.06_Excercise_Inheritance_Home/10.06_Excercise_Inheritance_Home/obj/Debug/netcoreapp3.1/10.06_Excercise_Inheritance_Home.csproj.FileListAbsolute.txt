@@ -1,0 +1,11 @@
+C:\GIT\gopas_csharp\10.06_Excercise_Inheritance_Home\10.06_Excercise_Inheritance_Home\10.06_Excercise_Inheritance_Home\obj\Debug\netcoreapp3.1\10.06_Excercise_Inheritance_Home.csprojAssemblyReference.cache
+C:\GIT\gopas_csharp\10.06_Excercise_Inheritance_Home\10.06_Excercise_Inheritance_Home\10.06_Excercise_Inheritance_Home\obj\Debug\netcoreapp3.1\10.06_Excercise_Inheritance_Home.AssemblyInfoInputs.cache
+C:\GIT\gopas_csharp\10.06_Excercise_Inheritance_Home\10.06_Excercise_Inheritance_Home\10.06_Excercise_Inheritance_Home\obj\Debug\netcoreapp3.1\10.06_Excercise_Inheritance_Home.AssemblyInfo.cs
+C:\GIT\gopas_csharp\10.06_Excercise_Inheritance_Home\10.06_Excercise_Inheritance_Home\10.06_Excercise_Inheritance_Home\bin\Debug\netcoreapp3.1\10.06_Excercise_Inheritance_Home.exe
+C:\GIT\gopas_csharp\10.06_Excercise_Inheritance_Home\10.06_Excercise_Inheritance_Home\10.06_Excercise_Inheritance_Home\bin\Debug\netcoreapp3.1\10.06_Excercise_Inheritance_Home.deps.json
+C:\GIT\gopas_csharp\10.06_Excercise_Inheritance_Home\10.06_Excercise_Inheritance_Home\10.06_Excercise_Inheritance_Home\bin\Debug\netcoreapp3.1\10.06_Excercise_Inheritance_Home.runtimeconfig.json
+C:\GIT\gopas_csharp\10.06_Excercise_Inheritance_Home\10.06_Excercise_Inheritance_Home\10.06_Excercise_Inheritance_Home\bin\Debug\netcoreapp3.1\10.06_Excercise_Inheritance_Home.runtimeconfig.dev.json
+C:\GIT\gopas_csharp\10.06_Excercise_Inheritance_Home\10.06_Excercise_Inheritance_Home\10.06_Excercise_Inheritance_Home\bin\Debug\netcoreapp3.1\10.06_Excercise_Inheritance_Home.dll
+C:\GIT\gopas_csharp\10.06_Excercise_Inheritance_Home\10.06_Excercise_Inheritance_Home\10.06_Excercise_Inheritance_Home\bin\Debug\netcoreapp3.1\10.06_Excercise_Inheritance_Home.pdb
+C:\GIT\gopas_csharp\10.06_Excercise_Inheritance_Home\10.06_Excercise_Inheritance_Home\10.06_Excercise_Inheritance_Home\obj\Debug\netcoreapp3.1\10.06_Excercise_Inheritance_Home.dll
+C:\GIT\gopas_csharp\10.06_Excercise_Inheritance_Home\10.06_Excercise_Inheritance_Home\10.06_Excercise_Inheritance_Home\obj\Debug\netcoreapp3.1\10.06_Excercise_Inheritance_Home.pdb

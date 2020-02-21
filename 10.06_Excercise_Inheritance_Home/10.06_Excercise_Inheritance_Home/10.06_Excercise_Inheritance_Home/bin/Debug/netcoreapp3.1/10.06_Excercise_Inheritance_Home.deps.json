@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "10.06_Excercise_Inheritance_Home/1.0.0": {
+        "runtime": {
+          "10.06_Excercise_Inheritance_Home.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10.06_Excercise_Inheritance_Home/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
