@@ -52,6 +52,19 @@ namespace _10._08_Interface
             IStringConvertible convertible = employee;  // Implicitni pretypovani
             Console.WriteLine(convertible.ToLowerCase());  // jan verner
             Console.WriteLine(employee.ToUpperCase());  // JAN VERNER
+
+            //ShowConverted((IStringConvertible)employee);  // explicitne
+            ShowConverted(employee);  // implicitne
+        }
+        /// <summary>
+        /// Vezme libovolny objekt implementujici interface IConvertible a pomoci interface ho pouzije
+        /// Je jedno, jakou instanci dostane, jedina podminka - instance musi implementovat
+        /// pozadovany interface.
+        /// </summary>
+        /// <param name="StringConvertible"></param>
+        static void ShowConverted(IStringConvertible StringConvertible)
+        {
+            Console.WriteLine($"ShowConverted: {StringConvertible.ToUpperCase()}");
         }
     }
 }
