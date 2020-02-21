@@ -4,10 +4,11 @@ namespace _11._01_Events
 {
     class Program
     {
+        public System.Timers.Timer timer1 = new System.Timers.Timer();
+
         static void Main(string[] args)
         {
             // Vytvoreni casovace
-            System.Timers.Timer timer1 = new System.Timers.Timer();
             timer1.Interval = 1000;
 
             // Napojeni na metodu
@@ -30,7 +31,7 @@ namespace _11._01_Events
         private static void Timer2_Elapsed(object sender, System.Timers.ElapsedEventArgs e)
         {
             Console.WriteLine("World");
-            ((System.Timers.Timer)sender).Enabled = false;
+            timer1.Enabled = false;
         }
 
         private static void Timer1_Elapsed(object sender,
