@@ -7,6 +7,19 @@ namespace _10._08_Interface
         string ToUpperCase();
         string ToLowerCase();
     }
+
+    class Employee
+    {
+        public string FirstName;
+        public string LastName;
+
+        public Employee(string firstName, string lastName)
+        {
+            this.FirstName = firstName;
+            this.LastName = lastName;
+        }
+    }
+
     class Program
     {
         static void Main(string[] args)
