@@ -29,7 +29,12 @@ namespace _10._08_Interface
             return this.ToString().ToUpper();
         }
 
-        public string ToLowerCase()
+        //public string ToLowerCase()  // IMPLICITNI IMPLEMENTACE
+        //{
+        //    return this.ToString().ToLower();
+        //}
+
+        string IStringConvertible.ToLowerCase()  // EXPLICITNI IMPLEMENTACE
         {
             return this.ToString().ToLower();
         }
@@ -41,7 +46,10 @@ namespace _10._08_Interface
         {
             Employee employee = new Employee("Jan", "Verner");
             Console.WriteLine(employee.ToString());  // Jan Verner
-            Console.WriteLine(employee.ToLowerCase());  // jan verner
+            //Console.WriteLine(employee.ToLowerCase());  // jan verner  // NelzeZkompilovat, protoze jsme zmenili na explicitni
+            // Pretypovani 'employee' na 'IStringConvertible'
+            IStringConvertible convertible = (IStringConvertible)employee;
+            Console.WriteLine(convertible.ToLowerCase());  // jan verner
             Console.WriteLine(employee.ToUpperCase());  // JAN VERNER
         }
     }
