@@ -8,7 +8,7 @@ namespace _10._08_Interface
         string ToLowerCase();
     }
 
-    class Employee
+    class Employee : IStringConvertible
     {
         public string FirstName;
         public string LastName;
@@ -22,6 +22,16 @@ namespace _10._08_Interface
         public override string ToString()
         {
             return $"{this.FirstName} {this.LastName}";
+        }
+
+        public string ToUpperCase()
+        {
+            return this.ToString().ToUpper();
+        }
+
+        public string ToLowerCase()
+        {
+            return this.ToString().ToLower();
         }
     }
 
