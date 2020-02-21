@@ -25,7 +25,10 @@ namespace _10._06_Excercise_Inheritance_Home
         {
             this.A = a;
             this.B = b;
-            this.Area = this.A * this.B;
+            this.Area = this.A * this.B;  
+            // pouzivat jen kdyz by to byl mrte komplikovany vypocet, 
+            // bude zabirat VIC pameti, 
+            // kdyz zmenim stav objektu, musim pamatovat na zmenu this.Area - prepocitat
         }
 
         public override string Report()
@@ -54,8 +57,10 @@ namespace _10._06_Excercise_Inheritance_Home
     /// <summary>
     /// Class for creating and making reports about shapes.
     /// </summary>
-    internal class ShapeManager
+    internal class ShapeManager  
     {
+        // Toto je object factory
+        // 
         public static Shape MakeRectange(int a, int b)
         {
             Rectangle rectangle = new Rectangle(a, b);
@@ -81,7 +86,7 @@ namespace _10._06_Excercise_Inheritance_Home
         private static void Main(string[] args)
         {
             // Fill list with custom shapes
-            System.Collections.ArrayList shapes = new System.Collections.ArrayList
+            System.Collections.ArrayList shapes = new System.Collections.ArrayList  // Lepsi List (je typovy) nez ArrayList
             {
                 ShapeManager.MakeRectange(2, 3),
                 ShapeManager.MakeBox(1, 2, 3),
