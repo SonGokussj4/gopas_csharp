@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\2124\11.01_Events\11.01_Events\11.01_Events\bin\Debug\netcoreapp3.1\11.01_Events.exe
+C:\Users\Student\Documents\2124\11.01_Events\11.01_Events\11.01_Events\bin\Debug\netcoreapp3.1\11.01_Events.deps.json
+C:\Users\Student\Documents\2124\11.01_Events\11.01_Events\11.01_Events\bin\Debug\netcoreapp3.1\11.01_Events.runtimeconfig.json
+C:\Users\Student\Documents\2124\11.01_Events\11.01_Events\11.01_Events\bin\Debug\netcoreapp3.1\11.01_Events.runtimeconfig.dev.json
+C:\Users\Student\Documents\2124\11.01_Events\11.01_Events\11.01_Events\bin\Debug\netcoreapp3.1\11.01_Events.dll
+C:\Users\Student\Documents\2124\11.01_Events\11.01_Events\11.01_Events\bin\Debug\netcoreapp3.1\11.01_Events.pdb
+C:\Users\Student\Documents\2124\11.01_Events\11.01_Events\11.01_Events\obj\Debug\netcoreapp3.1\11.01_Events.csprojAssemblyReference.cache
+C:\Users\Student\Documents\2124\11.01_Events\11.01_Events\11.01_Events\obj\Debug\netcoreapp3.1\11.01_Events.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\2124\11.01_Events\11.01_Events\11.01_Events\obj\Debug\netcoreapp3.1\11.01_Events.AssemblyInfo.cs
+C:\Users\Student\Documents\2124\11.01_Events\11.01_Events\11.01_Events\obj\Debug\netcoreapp3.1\11.01_Events.dll
+C:\Users\Student\Documents\2124\11.01_Events\11.01_Events\11.01_Events\obj\Debug\netcoreapp3.1\11.01_Events.pdb
