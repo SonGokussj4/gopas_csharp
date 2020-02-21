@@ -8,6 +8,18 @@ namespace _10._08_Interface
         string ToLowerCase();
     }
 
+    class MyClass : IStringConvertible
+    {
+        public string ToLowerCase()
+        {
+            throw new NotImplementedException();
+        }
+
+        public string ToUpperCase()
+        {
+            throw new NotImplementedException();
+        }
+    }
     class Employee : IStringConvertible
     {
         public string FirstName;
@@ -56,6 +68,7 @@ namespace _10._08_Interface
             //ShowConverted((IStringConvertible)employee);  // explicitne
             ShowConverted(employee);  // implicitne
         }
+
         /// <summary>
         /// Vezme libovolny objekt implementujici interface IConvertible a pomoci interface ho pouzije
         /// Je jedno, jakou instanci dostane, jedina podminka - instance musi implementovat
