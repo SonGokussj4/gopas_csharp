@@ -4,7 +4,8 @@ namespace _11._01_Events
 {
     class Program
     {
-        public System.Timers.Timer timer1 = new System.Timers.Timer();
+        // Ze staticke metody nemohu sahnout na this metody. Musim staticke.
+        public static System.Timers.Timer timer1 = new System.Timers.Timer();
 
         static void Main(string[] args)
         {
